@@ -25,10 +25,4 @@ If you use these datasets, please cite the following paper:
 		   abstract = {With the increasing heterogeneity and specialization of medical texts, automated question answering is becoming more and more challenging. In this context, answering a given medical question by retrieving similar questions that are already answered by human experts seems to be a promising solution. In this paper, we propose a new approach for the detection of similar questions based on Recognizing Question Entailment (RQE). In particular, we consider Frequently Asked Question (FAQs) as a valuable and widespread source of information. Our final goal is to automatically provide an existing answer if FAQ similar to a consumer health question exists. We evaluate our approach using consumer health questions received by the National Library of Medicine and FAQs collected from NIH websites. Our first results are promising and suggest the feasibility of our approach as a valuable complement to classic question answering approaches.}}
 
 
-Contact Information
--------------------
-- Asma Ben Abacha: asma.benabacha@nih.gov
-- Dina Demner-Fushman: ddemner@mail.nih.gov
-
-Project Page: https://lhncbc.nlm.nih.gov/project/consumer-health-question-answering
 
